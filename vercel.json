@@ -1,0 +1,25 @@
+{
+  "headers": [
+    {
+      "source": "/.well-known/apple-app-site-association",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/invite/:code",
+      "destination": "https://apps.apple.com/app/id6785164620",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "https://www.darpmx.dev",
+      "permanent": false
+    }
+  ]
+}
