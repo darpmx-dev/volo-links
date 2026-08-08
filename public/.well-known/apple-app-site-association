@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "HPA6D92W8C.dev.darpmx.Volo"
+        ],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Enlaces de invitación de VOLO"
+          }
+        ]
+      }
+    ]
+  }
+}
