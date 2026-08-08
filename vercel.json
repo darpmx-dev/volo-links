@@ -17,9 +17,34 @@
       "permanent": false
     },
     {
+      "source": "/volo",
+      "destination": "https://www.darpmx.dev/volo",
+      "permanent": true
+    },
+    {
+      "source": "/volo-contacto",
+      "destination": "https://www.darpmx.dev/volo-contacto",
+      "permanent": true
+    },
+    {
+      "source": "/volo-politica",
+      "destination": "https://www.darpmx.dev/volo-politica",
+      "permanent": true
+    },
+    {
+      "source": "/volo-terminos",
+      "destination": "https://www.darpmx.dev/volo-terminos",
+      "permanent": true
+    },
+    {
+      "source": "/volo-soporte",
+      "destination": "https://www.darpmx.dev/volo-soporte",
+      "permanent": true
+    },
+    {
       "source": "/",
-      "destination": "https://www.darpmx.dev",
-      "permanent": false
+      "destination": "https://www.darpmx.dev/volo",
+      "permanent": true
     }
   ]
 }
